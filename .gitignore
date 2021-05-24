@@ -98,3 +98,7 @@ dkms.conf
 **/Unity/**/TextMesh Pro/Documentation
 *.csproj
 **/UserSettings
+**/include/
+**/project/VisualStudio/
+**/resource/
+**/source/
